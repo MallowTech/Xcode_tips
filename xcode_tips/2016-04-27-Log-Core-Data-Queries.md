@@ -10,8 +10,9 @@ tip-description: logging core data queries in console.
 
 Steps to log the core data queries in console
 
-1. Open the manage scheme window. 
-2. Click on Run and move to aruments.
+1. Select Edit Scheme from the scheme editor menu.
+![Editor menu](Editor_menu.png "Editor menu")
+2. Select the Test action and move to arguments section.
 3. Add the follwing command in run arguments : 
 
 ```bash
