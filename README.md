@@ -1,7 +1,7 @@
 # Xcode_tips
 
 This repository has a collection of xcode tips. 
-If you want to contribute, please read the [guide]().
+If you want to contribute, please read the [guide](https://github.com/MallowTech/Xcode_tips/blob/master/CONTRIBUTING.md).
 
 
 # Tips list
