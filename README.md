@@ -1,7 +1,11 @@
 # Xcode_tips
 
 This repository has a collection of xcode tips. 
-If you want to contribute, please read the [guide]().
+If you want to contribute, please read the [guide](https://github.com/MallowTech/Xcode_tips/blob/master/CONTRIBUTING.md).
+
+
+# Tips list
+- 01 - [Build Time in Xcode](https://github.com/MallowTech/Xcode_tips/blob/master/xcode_tips/2016-04-26-Build-Time-in-Xcode.md)
 
 
 # License
