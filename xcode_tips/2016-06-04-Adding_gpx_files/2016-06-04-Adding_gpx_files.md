@@ -3,7 +3,7 @@ title: Add gpx files in Xcode
 tip-number: 04
 tip-username: arasu01
 tip-username-profile: https://github.com/arasu01
-tip-description: Using custom gpx files to simulate location with teh existing location in Xcode.
+tip-description: Using custom gpx files to simulate location with the existing location in Xcode.
 
 ---
 
