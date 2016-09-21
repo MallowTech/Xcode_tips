@@ -1,6 +1,6 @@
 ---
 title: How to log core data queries
-tip-number: 02
+tip-number: 03
 tip-username: arasu01
 tip-username-profile: https://github.com/arasu01
 tip-description: logging core data queries in console.
