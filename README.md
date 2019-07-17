@@ -6,7 +6,8 @@ If you want to contribute, please read the [guide](https://github.com/MallowTech
 
 # Tips list
 
-- 06 - [Xcode Warning & Error in swift](https://github.com/MallowTech/Xcode_tips/blob/master/xcode_tips/2016-06-09-Xcode-showing-Warning-and-Error/2016-06-09-Xcode-showing-Warning-and-Error.md)
+- 07 - [Watchpoints in Xcode](https://github.com/MallowTech/Xcode_tips/tree/master/xcode_watchpoints/xcode_tips/2019-07-17-Xcode-Watchpoints)
+- 06 - [Xcode Warning & Error in swift](https://github.com/MallowTech/Xcode_tips/blob/master/xcode_tips/2016-06-09-Xcode-showing-Warning-and-Error)
 - 05 - [Adding gpx files](https://github.com/MallowTech/Xcode_tips/blob/master/xcode_tips/2016-06-04-Adding_gpx_files/2016-06-04-Adding_gpx_files.md)
 - 04 - [Alcatraz-Xcode](https://github.com/MallowTech/Xcode_tips/blob/master/xcode_tips/2016-05-20-Alcatraz-package-manager-in-Xcode/2016-05-20-Alcatraz-package-manager-in-Xcode.md)
 - 03 - [Log CoreData queries](https://github.com/MallowTech/Xcode_tips/blob/master/xcode_tips/2016-04-27-Log-Core-Data-Queries/2016-04-27-Log-Core-Data-Queries.md)
